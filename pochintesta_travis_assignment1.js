@@ -4,7 +4,3 @@
 //	My First Program
 
 //  My Variables
-
-// 	My Output
-
-//	My Conditionals
