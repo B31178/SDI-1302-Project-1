@@ -5,6 +5,4 @@
 
 //  My Variables
 
-// 	My Output
 
-//	My Conditionals
